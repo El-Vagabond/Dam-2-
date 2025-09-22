@@ -1,0 +1,11 @@
+ El volumen de la unidad C es pc154
+ El n£mero de serie del volumen es: 5470-BB04
+
+ Directorio de C:\Users\ALUMNOS-FP\Desktop\Apuntes\PSPRR\Ficheros
+
+19/09/2025  08:56    <DIR>          .
+19/09/2025  08:56    <DIR>          ..
+19/09/2025  09:05                 0 error.txt
+19/09/2025  09:05                 0 salida.txt
+               2 archivos              0 bytes
+               2 dirs  411.315.613.696 bytes libres
