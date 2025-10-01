@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c3c8a20327c1d8b8",
+        "id": "28e5d92b3c440f3d",
         "type": "tabs",
         "children": [
           {
-            "id": "2247529042647afe",
+            "id": "359301fb29c02b3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion/Java.md",
+                "file": "Pspr/Ejemplos Ejercicios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java"
-            }
-          },
-          {
-            "id": "e54ac381619b1261",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vale.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vale"
-            }
-          },
-          {
-            "id": "0265fb62d86adc0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hola.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hola"
+              "title": "Ejemplos Ejercicios"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Hola.md",
+            "file": "Interfaces/Tkinter.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,6 +139,16 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "a02782863d879cc8",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "calendar"
+        }
       }
     ],
     "currentTab": 0
@@ -180,22 +161,59 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0265fb62d86adc0f",
+  "active": "359301fb29c02b3e",
   "lastOpenFiles": [
+    "Pspr/Tema 1 (Hilos,Thread).md",
+    "Pspr/Ejemplos Ejercicios.md",
+    "Pspr",
+    "Interfaces/Tema 1.md",
+    "DESIN/Examen DESIN TEMA 1.md",
+    "Imagenes/Pasted image 20250930124210.png",
+    "Imagenes/Pasted image 20250930124125.png",
+    "Imagenes/Pasted image 20250930124704.png",
+    "Imagenes/Pasted image 20250930124539.png",
+    "Imagenes/Pasted image 20250930124059.png",
+    "Imagenes/Pasted image 20250930125424.png",
+    "Imagenes/Pasted image 20250930124016.png",
+    "Imagenes/Pasted image 20250930125723.png",
+    "DESIN",
+    "Imagenes/Pasted image 20250930105704.png",
+    "Android/Sin título.md",
+    "Imagenes/Pasted image 20250930105233.png",
+    "IA/Crear Pagina con Android Estudio.md",
+    "IA",
+    "Programacion/Java/Conceptos.md",
+    "Programacion/Python/Conceptos.md",
+    "Programacion/Java/MindMap.md",
+    "Android/Conceptos.md",
+    "Programacion/Python",
+    "Interfaces/Tkinter.md",
+    "Programacion/Java.md",
+    "Programacion/Java/Tema 1.md",
+    "Programacion/Java/Hola.md",
+    "Programacion/Java",
+    "Java/Hola.md",
+    "Imagenes",
+    "Examen.md",
+    "Android",
+    "MAÑANA.md",
+    "NAS/MAÑANA.md",
+    "NAS/Clave wireguard.md",
+    "NAS/Sin título.md",
+    "NAS",
+    "Hola.md",
+    "Clave wireguard.md",
+    "Interfaces",
+    "Ir a Pesoz.md",
     "PC insti",
     "Vale.md",
-    "Hola.md",
-    "Programacion/Java.md",
-    "Java/Hola.md",
-    "Java/docker-compose.yml",
     "Programacion/Java.sync-conflict-20250917-165220-7XDXNOU.md",
-    "Java/Hola.sync-conflict-20250917-165254-KSXSBGA.md",
-    "Java/Hola.sync-conflict-20250917-165252-KSXSBGA.md",
-    "Java/Prueba.txt",
-    "Programacion",
-    "Java"
+    "Java/Hola.sync-conflict-20250917-165254-KSXSBGA.md"
   ]
 }

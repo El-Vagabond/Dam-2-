@@ -1,0 +1,1 @@
+Ir sobre las 10 Am para intentar comer en Navia  o de camino , luego tirar a Pesoz estar un ratito y volver
