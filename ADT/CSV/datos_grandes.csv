@@ -1,0 +1,200 @@
+id,nombre,edad,ciudad,departamento,salario,fecha_alta,remoto,seniority,puntuacion
+1,Irene,44,Zaragoza,Finanzas,1560,2020-07-03,False,SemiSenior,3.48
+2,Alberto,53,Madrid,RRHH,3607,2024-05-21,True,Junior,1.03
+3,Pablo,45,Granada,IT,3936,2023-09-16,False,Junior,3.02
+4,Nuria,43,Zaragoza,IT,4716,2022-06-27,True,Senior,8.07
+5,Noelia,38,Alicante,Finanzas,3947,2022-06-15,True,Junior,4.93
+6,RaÃºl,28,A CoruÃ±a,Finanzas,2103,2024-11-12,False,Junior,1.72
+7,Miguel,30,Alicante,Finanzas,2961,2020-06-26,True,Junior,3.13
+8,Carmen,50,Zaragoza,Ventas,3330,2023-12-14,False,Senior,9.54
+9,Isabel,21,Madrid,Finanzas,5923,2021-02-21,False,SemiSenior,4.32
+10,Sergio,21,Barcelona,IT,3756,2020-07-13,True,SemiSenior,4.42
+11,RaÃºl,35,Zaragoza,Ventas,4248,2022-12-25,True,Senior,1.53
+12,Fernando,51,MÃ¡laga,RRHH,4731,2025-07-12,False,Junior,3.05
+13,Luis,46,Alicante,Finanzas,2939,2024-03-03,False,Senior,8.15
+14,Hugo,43,Zaragoza,Operaciones,5830,2024-04-24,True,Junior,7.86
+15,Natalia,40,GijÃ³n,LogÃ­stica,4440,2024-01-25,False,Junior,4.35
+16,Diego,22,Sevilla,AtenciÃ³n Cliente,5272,2024-06-15,False,Junior,8.94
+17,Fernando,32,MÃ¡laga,RRHH,4797,2022-11-28,False,Senior,3.8
+18,SofÃ­a,21,Alicante,AtenciÃ³n Cliente,4183,2020-09-22,True,Senior,8.64
+19,Miguel,50,Barcelona,IT,1348,2024-10-04,False,SemiSenior,0.32
+20,Hugo,50,Bilbao,AtenciÃ³n Cliente,4002,2022-07-21,False,Junior,3.47
+21,Paula,29,Alicante,RRHH,1821,2022-11-01,True,Junior,8.55
+22,Pedro,30,Valladolid,AtenciÃ³n Cliente,4095,2022-02-06,False,SemiSenior,9.01
+23,RaÃºl,31,Alicante,LogÃ­stica,4567,2021-01-12,False,Junior,7.56
+24,Jorge,56,Murcia,Operaciones,3817,2025-04-02,False,Junior,6.7
+25,RaÃºl,39,GijÃ³n,LogÃ­stica,2680,2024-06-05,False,SemiSenior,8.16
+26,Isabel,50,Santander,IT,1485,2023-08-25,False,SemiSenior,7.08
+27,Pedro,37,Pamplona,Ventas,4421,2022-04-12,False,Senior,2.54
+28,Hugo,48,Barcelona,Operaciones,4552,2024-08-30,False,SemiSenior,4.66
+29,SofÃ­a,40,Valladolid,Finanzas,3494,2023-02-03,True,Junior,6.61
+30,Marta,29,Barcelona,IT,4639,2022-07-06,True,SemiSenior,5.88
+31,Noelia,55,Valencia,Operaciones,4940,2022-07-21,True,Junior,8.85
+32,Elena,48,Bilbao,IT,3660,2021-04-15,False,SemiSenior,4.74
+33,Laura,51,A CoruÃ±a,LogÃ­stica,1428,2020-07-09,True,SemiSenior,1.78
+34,Pedro,58,Zaragoza,Ventas,5378,2023-02-21,False,Junior,2.15
+35,MarÃ­a,28,GijÃ³n,RRHH,3440,2025-01-11,False,Junior,8.46
+36,Nuria,21,Bilbao,AtenciÃ³n Cliente,4428,2020-05-12,True,Senior,0.09
+37,Sergio,43,A CoruÃ±a,Finanzas,5573,2024-11-11,False,SemiSenior,8.69
+38,LucÃ­a,32,Alicante,Operaciones,2941,2024-09-09,False,SemiSenior,0.56
+39,Elena,36,Pamplona,Operaciones,4186,2021-07-26,True,SemiSenior,3.92
+40,Jorge,28,Valencia,LogÃ­stica,1294,2023-07-31,True,SemiSenior,8.0
+41,RaÃºl,35,Alicante,RRHH,5449,2020-12-08,True,Junior,4.08
+42,Elena,34,Barcelona,LogÃ­stica,1484,2024-04-18,True,Senior,8.22
+43,AndrÃ©s,33,Valladolid,Finanzas,3797,2023-12-21,True,Senior,1.0
+44,Fernando,49,Zaragoza,LogÃ­stica,2888,2022-01-03,False,Junior,5.12
+45,Jorge,43,Pamplona,Operaciones,1371,2020-05-20,True,Junior,5.82
+46,Marta,38,Alicante,Ventas,3418,2025-07-02,True,SemiSenior,8.91
+47,Noelia,22,Santander,Operaciones,5691,2022-07-11,True,SemiSenior,0.94
+48,Hugo,42,GijÃ³n,LogÃ­stica,2001,2025-01-22,True,Junior,3.39
+49,Jorge,25,Zaragoza,Ventas,2603,2023-11-04,False,SemiSenior,6.59
+50,Noelia,31,Alicante,AtenciÃ³n Cliente,2108,2024-05-30,True,SemiSenior,9.8
+51,Patricia,35,Madrid,IT,1799,2024-04-21,True,SemiSenior,8.48
+52,Jorge,24,Valladolid,AtenciÃ³n Cliente,2305,2021-02-06,False,Junior,8.46
+53,Hugo,34,Madrid,AtenciÃ³n Cliente,3945,2022-01-23,False,Junior,5.17
+54,Paula,29,Granada,Ventas,4947,2022-08-24,False,SemiSenior,5.64
+55,Irene,54,Pamplona,Operaciones,4514,2022-10-27,False,Senior,8.59
+56,Natalia,54,Granada,IT,4902,2020-03-31,False,SemiSenior,8.7
+57,Sergio,18,GijÃ³n,Finanzas,4635,2023-02-05,False,Junior,8.02
+58,LucÃ­a,43,Valencia,LogÃ­stica,3038,2020-11-15,False,Senior,8.19
+59,RaÃºl,45,Pamplona,Ventas,5522,2024-03-18,True,Junior,8.8
+60,Elena,34,Valladolid,Ventas,2027,2023-11-14,False,SemiSenior,1.14
+61,Carlos,38,Granada,RRHH,4559,2025-03-24,False,Junior,2.93
+62,AndrÃ©s,51,Alicante,Marketing,1732,2024-03-21,False,SemiSenior,9.76
+63,RaÃºl,34,A CoruÃ±a,IT,4875,2022-01-28,False,SemiSenior,5.45
+64,Pedro,20,Bilbao,RRHH,1618,2025-06-25,False,SemiSenior,1.76
+65,Noelia,34,A CoruÃ±a,Marketing,2237,2022-04-30,True,Junior,5.03
+66,Laura,28,A CoruÃ±a,IT,3078,2021-11-05,False,SemiSenior,6.46
+67,Sergio,34,GijÃ³n,Marketing,4534,2025-02-17,True,Junior,8.28
+68,Noelia,27,Murcia,IT,1418,2022-02-05,False,Senior,8.12
+69,LucÃ­a,24,Murcia,LogÃ­stica,2435,2020-06-07,False,Junior,0.49
+70,MarÃ­a,60,Murcia,LogÃ­stica,2801,2022-08-29,True,SemiSenior,4.54
+71,Carmen,23,Barcelona,Marketing,4709,2024-07-05,True,SemiSenior,0.21
+72,Natalia,48,Barcelona,LogÃ­stica,5816,2021-01-27,True,Junior,8.88
+73,Carlos,48,Madrid,RRHH,4148,2022-08-16,False,Junior,1.74
+74,Irene,44,A CoruÃ±a,LogÃ­stica,3636,2020-09-25,False,Junior,6.25
+75,Miguel,57,Zaragoza,Ventas,2814,2023-11-22,False,SemiSenior,5.71
+76,Hugo,18,GijÃ³n,Marketing,5149,2022-09-11,True,Senior,6.26
+77,Pedro,30,Granada,Operaciones,1714,2021-11-14,False,SemiSenior,5.63
+78,Sergio,25,Sevilla,Ventas,1820,2021-04-14,False,Senior,7.16
+79,SofÃ­a,42,Barcelona,AtenciÃ³n Cliente,2165,2023-03-14,True,Junior,6.26
+80,Diego,45,MÃ¡laga,RRHH,2487,2023-10-18,True,Junior,0.9
+81,Diego,56,Santander,RRHH,3416,2025-04-30,False,Senior,3.67
+82,Sergio,34,Madrid,RRHH,5744,2022-06-23,True,Senior,5.47
+83,Elena,28,Sevilla,AtenciÃ³n Cliente,4322,2020-11-28,True,Junior,3.25
+84,Carlos,57,Madrid,IT,3041,2024-09-19,True,SemiSenior,7.6
+85,Paula,46,Zaragoza,AtenciÃ³n Cliente,2215,2023-07-27,True,Senior,3.18
+86,Paula,50,Pamplona,AtenciÃ³n Cliente,4312,2023-12-20,True,SemiSenior,8.29
+87,Jorge,37,Granada,AtenciÃ³n Cliente,2415,2020-07-20,True,SemiSenior,1.47
+88,Jorge,37,Murcia,LogÃ­stica,5886,2021-10-08,False,Junior,7.69
+89,SofÃ­a,34,Sevilla,AtenciÃ³n Cliente,3493,2024-05-08,False,Junior,1.83
+90,Natalia,50,MÃ¡laga,Finanzas,3844,2024-09-18,True,SemiSenior,5.28
+91,Paula,27,Murcia,RRHH,5537,2022-06-19,False,SemiSenior,3.21
+92,RaÃºl,59,Bilbao,RRHH,2665,2024-07-23,False,Junior,6.37
+93,Noelia,25,Granada,AtenciÃ³n Cliente,3465,2024-10-08,True,Junior,2.13
+94,Carlos,37,Pamplona,RRHH,3753,2022-03-13,True,Junior,7.95
+95,Pablo,31,Valencia,Finanzas,2501,2025-02-02,True,SemiSenior,5.74
+96,Hugo,45,Valencia,IT,1462,2021-08-19,False,Junior,9.57
+97,Jorge,47,Barcelona,Marketing,2562,2021-05-10,False,Junior,7.12
+98,AndrÃ©s,57,Granada,Marketing,1739,2023-11-13,True,Junior,6.07
+99,Jorge,51,Zaragoza,RRHH,4443,2023-08-11,False,Senior,8.29
+100,Elena,28,Bilbao,Finanzas,1234,2020-10-16,False,SemiSenior,2.2
+101,Paula,26,Valencia,Operaciones,2719,2024-09-19,True,Junior,6.33
+102,Pedro,56,Barcelona,RRHH,5445,2021-02-17,False,SemiSenior,3.9
+103,Ana,38,Murcia,Ventas,3929,2024-07-24,False,SemiSenior,7.44
+104,Diego,22,Granada,Finanzas,4422,2020-01-16,False,SemiSenior,0.24
+105,Noelia,53,Valencia,IT,4409,2024-07-07,False,SemiSenior,4.28
+106,AndrÃ©s,45,Madrid,AtenciÃ³n Cliente,2632,2024-06-16,False,SemiSenior,6.52
+107,Patricia,19,Murcia,AtenciÃ³n Cliente,4235,2024-06-03,True,SemiSenior,4.61
+108,RaÃºl,51,Granada,Ventas,2261,2023-10-08,True,Junior,2.38
+109,Pablo,44,MÃ¡laga,Marketing,4251,2022-09-03,False,Junior,4.64
+110,Carlos,44,Valencia,IT,4479,2023-12-30,True,Junior,8.5
+111,Laura,55,Sevilla,Marketing,5406,2021-07-27,False,SemiSenior,2.07
+112,Hugo,39,Alicante,IT,5614,2024-06-04,True,SemiSenior,3.67
+113,Luis,37,GijÃ³n,LogÃ­stica,1315,2023-02-24,False,SemiSenior,9.9
+114,Pablo,44,Alicante,Ventas,2636,2022-08-07,False,Junior,9.13
+115,Paula,26,Murcia,Operaciones,3826,2022-11-12,True,SemiSenior,0.34
+116,Natalia,24,Granada,Finanzas,2743,2023-03-23,False,Junior,5.3
+117,Isabel,54,MÃ¡laga,Ventas,4169,2020-03-18,True,Junior,0.65
+118,Ricardo,27,Madrid,AtenciÃ³n Cliente,5301,2020-10-16,False,SemiSenior,9.24
+119,Ana,39,MÃ¡laga,IT,2438,2021-05-23,False,Junior,4.42
+120,Marta,29,Granada,LogÃ­stica,5489,2020-08-25,False,Junior,4.18
+121,Isabel,27,A CoruÃ±a,Operaciones,5434,2022-06-29,False,Junior,2.73
+122,AdriÃ¡n,43,Pamplona,Operaciones,5588,2023-10-15,False,SemiSenior,5.69
+123,Natalia,52,Pamplona,LogÃ­stica,1553,2023-09-16,False,Junior,1.45
+124,Isabel,37,Valencia,RRHH,2607,2022-09-02,True,Senior,7.99
+125,Diego,23,Madrid,Marketing,1795,2024-11-05,False,Senior,4.91
+126,Marta,28,Bilbao,Ventas,1777,2023-03-16,False,Senior,5.66
+127,Sergio,25,Santander,LogÃ­stica,1455,2020-06-12,True,Junior,8.41
+128,Pablo,55,GijÃ³n,RRHH,3312,2024-05-02,False,SemiSenior,1.85
+129,Fernando,31,Barcelona,AtenciÃ³n Cliente,1618,2023-04-04,True,Junior,1.75
+130,Irene,34,Sevilla,Marketing,2619,2023-08-06,False,Senior,4.21
+131,Paula,21,Valladolid,LogÃ­stica,5911,2023-03-16,True,SemiSenior,7.86
+132,Diego,37,A CoruÃ±a,AtenciÃ³n Cliente,5443,2023-02-19,False,Junior,0.59
+133,Hugo,57,Pamplona,Marketing,5698,2020-07-06,True,Junior,7.95
+134,MarÃ­a,35,Alicante,RRHH,1375,2023-03-03,False,Senior,5.01
+135,Noelia,46,Valencia,AtenciÃ³n Cliente,4373,2024-07-03,True,Senior,5.62
+136,Ana,25,Madrid,Ventas,4243,2021-09-21,False,SemiSenior,5.64
+137,Miguel,24,A CoruÃ±a,IT,1837,2023-06-01,False,SemiSenior,0.56
+138,Natalia,49,Valladolid,Marketing,5550,2020-03-04,False,SemiSenior,2.5
+139,Natalia,20,Santander,Finanzas,3141,2021-12-20,True,Senior,7.55
+140,Natalia,37,Valladolid,Ventas,5888,2022-06-23,True,SemiSenior,4.12
+141,Natalia,31,Murcia,Marketing,1747,2025-07-27,True,Junior,5.61
+142,Carmen,18,Bilbao,LogÃ­stica,4321,2021-03-20,False,SemiSenior,9.45
+143,Diego,40,Barcelona,IT,1827,2021-07-26,True,Senior,0.46
+144,Miguel,59,Santander,IT,5760,2022-04-25,False,Junior,4.5
+145,Hugo,20,GijÃ³n,RRHH,4117,2025-08-16,True,Junior,3.61
+146,Laura,53,Sevilla,IT,1563,2024-11-01,False,Junior,1.06
+147,Ricardo,41,Granada,IT,2231,2020-03-12,True,SemiSenior,9.51
+148,Patricia,49,MÃ¡laga,Ventas,2924,2021-04-29,False,SemiSenior,9.61
+149,AdriÃ¡n,22,Zaragoza,IT,1261,2024-08-27,True,Junior,3.11
+150,Pedro,55,GijÃ³n,AtenciÃ³n Cliente,1241,2020-04-30,True,SemiSenior,9.47
+151,Noelia,18,GijÃ³n,IT,5643,2024-11-06,True,Junior,0.35
+152,SofÃ­a,56,Sevilla,Finanzas,5910,2021-08-05,True,Senior,9.81
+153,Jorge,46,Bilbao,Operaciones,3774,2025-03-14,False,Senior,8.36
+154,Irene,32,GijÃ³n,Operaciones,5533,2021-08-30,False,SemiSenior,2.14
+155,MarÃ­a,18,Santander,Operaciones,4345,2022-06-18,False,SemiSenior,6.0
+156,Patricia,44,Barcelona,Marketing,1334,2023-10-02,False,Junior,7.98
+157,Irene,21,GijÃ³n,LogÃ­stica,4630,2020-09-18,False,Senior,3.19
+158,AdriÃ¡n,44,Murcia,IT,1287,2023-02-27,True,SemiSenior,3.54
+159,Alberto,51,Valladolid,IT,5120,2022-11-11,True,Junior,6.29
+160,Marta,29,Barcelona,AtenciÃ³n Cliente,2961,2024-06-10,True,Senior,1.47
+161,Pedro,28,Granada,IT,1878,2025-08-23,True,Junior,1.18
+162,Marta,27,Granada,Ventas,2441,2023-10-07,False,SemiSenior,2.5
+163,LucÃ­a,27,A CoruÃ±a,Ventas,4480,2022-04-27,False,Junior,7.41
+164,AndrÃ©s,22,Alicante,IT,5266,2022-04-21,False,SemiSenior,3.67
+165,Pedro,28,Pamplona,IT,3940,2022-05-15,False,Junior,5.07
+166,Carmen,46,GijÃ³n,Finanzas,1970,2024-08-12,True,Junior,1.95
+167,Hugo,31,Alicante,Operaciones,5521,2021-10-26,False,SemiSenior,1.94
+168,Elena,51,Pamplona,IT,4995,2020-12-11,True,Senior,6.5
+169,Sergio,53,Granada,LogÃ­stica,3167,2021-11-22,True,Junior,1.08
+170,Isabel,50,Granada,IT,3861,2020-02-17,True,SemiSenior,6.68
+171,Isabel,41,Valladolid,Operaciones,5827,2020-08-07,True,SemiSenior,4.01
+172,Nuria,31,Alicante,AtenciÃ³n Cliente,3011,2020-07-05,False,Senior,6.71
+173,Carmen,57,Barcelona,Finanzas,1323,2024-05-16,True,Junior,3.82
+174,Paula,26,Murcia,RRHH,1899,2024-02-04,True,SemiSenior,8.46
+175,AdriÃ¡n,37,Zaragoza,IT,4082,2023-12-13,False,Senior,0.56
+176,Laura,37,Santander,Ventas,5989,2022-08-14,False,Junior,8.93
+177,Isabel,50,Barcelona,AtenciÃ³n Cliente,4752,2024-01-24,False,SemiSenior,2.69
+178,Elena,41,A CoruÃ±a,Marketing,4166,2020-11-29,False,Senior,0.43
+179,SofÃ­a,52,Sevilla,IT,2750,2025-02-07,False,Junior,5.62
+180,Jorge,57,Santander,Operaciones,3309,2022-11-03,True,Junior,2.24
+181,SofÃ­a,34,GijÃ³n,Operaciones,1384,2025-04-25,True,Junior,4.59
+182,Jorge,55,Valencia,IT,2981,2020-11-11,True,Senior,8.02
+183,Hugo,25,Santander,IT,4193,2022-10-26,True,Senior,7.92
+184,Luis,57,Murcia,IT,5548,2023-12-12,False,SemiSenior,6.0
+185,Isabel,25,Pamplona,IT,5628,2022-10-22,False,SemiSenior,9.78
+186,Nuria,54,Granada,Finanzas,5142,2022-07-12,False,Junior,4.64
+187,Hugo,34,Madrid,Ventas,1303,2020-12-10,False,Junior,0.39
+188,Carmen,59,Valencia,Finanzas,5094,2022-02-27,False,Junior,8.19
+189,Luis,23,Zaragoza,Ventas,2249,2021-05-09,False,Junior,2.21
+190,Patricia,38,Valencia,LogÃ­stica,4158,2021-09-16,False,Junior,1.76
+191,Ana,56,Barcelona,Operaciones,5743,2023-11-16,False,SemiSenior,0.7
+192,Alberto,20,Pamplona,Marketing,5463,2023-07-28,True,Junior,3.28
+193,Alberto,29,Santander,RRHH,4389,2023-06-10,False,Junior,3.26
+194,Jorge,21,Zaragoza,IT,2636,2022-01-18,True,Junior,3.03
+195,Hugo,31,Valencia,IT,3700,2025-06-09,False,Junior,5.93
+196,Jorge,34,Sevilla,Finanzas,4578,2020-06-30,True,Junior,7.52
+197,SofÃ­a,44,Santander,IT,3668,2021-12-10,False,Junior,9.38
+198,Sergio,29,Bilbao,Operaciones,3141,2020-09-01,True,Junior,0.94
+199,AdriÃ¡n,24,Madrid,RRHH,3134,2021-12-02,True,SemiSenior,1.5
