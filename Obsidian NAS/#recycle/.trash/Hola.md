@@ -1,3 +1,0 @@
-Loredo
-
-ESTAS LEYENDO ESTO?

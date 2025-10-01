@@ -1,2 +1,0 @@
-Como Estas
-Bien
