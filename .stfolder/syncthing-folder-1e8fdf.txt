@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: xfc6u-qjob4
+created: 2025-10-01T11:00:46+02:00
