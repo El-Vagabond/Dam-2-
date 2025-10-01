@@ -6,11 +6,9 @@
 
     <ImageView
         android:id="@+id/imagenOP"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
         android:layout_width="170dp"
         android:layout_height="155dp"
-        android:src="@drawable/OP1"
+        android:src="@drawable/op"
         tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="33dp" />
 
@@ -22,6 +20,15 @@
         android:text="Nombre:"
         tools:layout_editor_absoluteX="200dp"
         tools:layout_editor_absoluteY="53dp" />
+
+    <EditText
+        android:id="@+id/etNombre"
+        android:layout_width="201dp"
+        android:layout_height="45dp"
+        android:hint="Tu nombre"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="200dp"
+        tools:layout_editor_absoluteY="64dp" />
 
     <TextView
         android:id="@+id/textViewEdad"
@@ -38,6 +45,27 @@
         android:text="Enviar"
         android:textColor="#FFFFFF"
         tools:layout_editor_absoluteX="67dp"
+        tools:layout_editor_absoluteY="459dp" />
+
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="@android:style/Widget.ProgressBar.Large"
+        android:layout_width="59dp"
+        android:layout_height="394dp"
+        android:indeterminateTint="#ff8000"
+        android:progress="40"
+        tools:layout_editor_absoluteX="176dp"
+        tools:layout_editor_absoluteY="221dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="110dp"
+        android:layout_height="53dp"
+        android:backgroundTint="#ff8000"
+        android:text="Limpiar"
+        android:textColor="#FFFFFF"
+        tools:layout_editor_absoluteX="223dp"
         tools:layout_editor_absoluteY="459dp" />
 
 
