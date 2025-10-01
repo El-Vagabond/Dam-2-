@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Sin título.md",
+                "file": "SGEM/ODO Login.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "ODO Login"
             }
           }
         ]
@@ -185,6 +185,10 @@
   },
   "active": "2c8253ad436d4510",
   "lastOpenFiles": [
+    "Imagenes/Pasted image 20251001104156.png",
+    "Android/Sin título.md",
+    "SGEM/ODO Login.md",
+    "SGEM",
     "Android/Conceptos.md",
     "IA/Crear Pagina con Android Estudio.md",
     "Obsidian/Markdown.md",
@@ -210,7 +214,6 @@
     "Imagenes/~syncthing~Pasted image 20250930203113.png.tmp",
     "Imagenes/~syncthing~Pasted image 20250930203026.png.tmp",
     "Imagenes/~syncthing~Pasted image 20250930202757.png.tmp",
-    "Pspr/~syncthing~Tema 1 (Hilos,Thread).md.tmp",
     "2025-09-30.md",
     "Imagenes/Pasted image 20250930125723.png",
     "Imagenes/Pasted image 20250930125424.png",
@@ -220,7 +223,6 @@
     "NAS/Sin título.md",
     "NAS/MAÑANA.md",
     "NAS/Clave wireguard.md",
-    "Android/Sin título.md",
     "S.md",
     "Programacion/Sin título.md",
     "Programacion/Java/Hola.md",
